@@ -16,5 +16,5 @@ In other words, it makes your design more human and appeals to emotions than sto
 
 3. **Inclusive Visuals**
 * We are all more sensitive to inclusivity and diversity in 2022, especially after the BlackLivesMatter and MeToo movements. We can see traces of them in today’s social media content as well as apps. It’s a big red flag to include only white men characters in your in-app visuals presenting the community. So, as a designer, you, too, have a part in social inclusion, and the users very much appreciate it.
-That’s how trends become trends. 
+That’s how trends become trends.
 ![image](https://user-images.githubusercontent.com/37442807/199060416-0b612bce-087c-46ee-af72-729bb7403dca.png)
